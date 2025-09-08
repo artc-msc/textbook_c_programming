@@ -1,7 +1,7 @@
 # textbook_c_programming
 
-Exercises from: The C Programming Language by Brian Kernighan and Dennis Ritchie
-2nd edition
+Exercises from: *The C Programming Language* by Brian Kernighan and Dennis 
+Ritchie 2nd edition
 
 The intent is to not just learn C from the book but also practice using Git and
 good coding practices such limiting nesting and using self-documenting code. For
