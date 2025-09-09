@@ -4,12 +4,12 @@
 /* copy input to output; 1st version */
 int main(void)
 {
-	int c;
+	int input;
 
-	c = getchar();
-	while (c != EOF) {
-		putchar(c);
-		c = getchar();
+	input = getchar();
+	while (input != EOF) {
+		putchar(input);
+		input = getchar();
 	}
 	return EXIT_SUCCESS;
 }
