@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main()
+/* Counts blanks, tabs, and newlines */
+int main(void)
 {
 	int input, blank, tab, newline;
 	blank = tab = newline = 0;
