@@ -5,7 +5,7 @@
 #define UPPER_TEMP 300
 #define TEMP_INCREMENT 20
 
-/* print Fahrenheit-Celsius table */ 
+/* print Fahrenheit-Celsius table with macros */ 
 int main(void)
 {
 	int fahr;
