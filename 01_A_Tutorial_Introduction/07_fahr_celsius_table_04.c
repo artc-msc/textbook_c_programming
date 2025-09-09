@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/* print Fahrenheit-Celsius table */ 
+/* print Fahrenheit-Celsius table with for loop*/ 
 int main(void)
 {
 	int fahr;
