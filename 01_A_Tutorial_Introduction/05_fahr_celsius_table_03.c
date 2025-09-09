@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /* print Fahrenheit-Celsius table for fahr = 0, 20, ..., 300; floating-point
- * version */
+ * version with heading */
 int main(void)
 {
 	float fahr, celsius;
